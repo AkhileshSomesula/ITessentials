@@ -20,3 +20,7 @@ iii) Relational Model
 iv) Transactions and Concurrency Control
 
 v) SQL Queries 
+
+SDLC
+
+Testing
