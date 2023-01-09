@@ -24,3 +24,7 @@ v) SQL Queries
 SDLC
 
 Testing
+
+CI/CD
+
+OOPS CONCEPTS: AT LAST CONCEPT
